@@ -1,11 +1,7 @@
 @font-face {
   font-family: 'ChunkFive';
   /* This is the name you'll use in your CSS */
-  src: url('assets/fonts/ChunkFive-Regular.woff2') format('woff2'),
-    /* Modern browsers */
-    url('assets/fonts/ChunkFive-Regular.woff') format('woff'),
-    /* Older modern browsers */
-    url('assets/fonts/ChunkFive-Regular.ttf') format('truetype');
+  src: url('assets/fonts/ChunkFive-Regular.otf') format('opentype');
   /* Older browsers */
   font-weight: normal;
   /* Or specify if there are different weights like 'bold' */
